@@ -1,0 +1,16 @@
+body {
+    overflow-x: hidden;
+}
+.nav {
+    height: 100vh;
+}
+.nav a {
+    color: white;
+}
+.table img {
+    width: 60px;
+}
+.checkbox {
+    transform: scale(1.5);
+    margin-left: 10px;
+}

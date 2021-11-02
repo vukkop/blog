@@ -1,0 +1,31 @@
+img {
+    max-width: 400px;
+}
+.pocetna img {
+    max-width: 100%;
+}
+.post {
+    margin-bottom: 30px;
+}
+.carousel-caption{
+    background-color: rgba(0,0,0,0.7);
+
+}
+.carousel-caption a {
+    text-decoration: none;
+    color: inherit;
+}
+.carousel-caption a:hover {
+    transition: 0.3s;
+    color: grey;
+}
+.navbar-right {
+    position: absolute;
+    right: 10px;
+
+}
+.prijava {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+}
